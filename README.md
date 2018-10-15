@@ -1,24 +1,16 @@
-# README
+# Papyrus
+Shopify Data Science Challenge, W19
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Papyrus is an article sharing app inspired by Medium.
 
-Things you may want to cover:
+## Install
 
-* Ruby version
+'''
+bundle install
+rails s
+'''
 
-* System dependencies
+An attempt was made to dockerize and deploy this application to Kubernetes. Though this was not done before the deadline, the changes will be made regardless as it will provide invaluable learning experience
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Contact
+eddie.ren.2013@gmail.com 
